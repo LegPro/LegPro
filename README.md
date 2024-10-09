@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vinay-hinukale-7b0aa215a/](https://www.linkedin.com/in/vinay-hinukale-7b0aa215a/)
 
-- ⚡ Fun fact **I love to meditate to increase work outcome.**
+- ⚡ Fun fact **Java runs on over 3 billion devices!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
