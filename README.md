@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/vinay-hinukale-7b0aa215a/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vinay-hinukale-7b0aa215a/](https://www.linkedin.com/in/vinay-hinukale-7b0aa215a/)
+- 📄 Know about my experiences [https://vinay-hinukale.com/])
 
 - ⚡ Fun fact **Java runs on over 3 billion devices!**
 
